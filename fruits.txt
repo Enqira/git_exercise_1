@@ -1,3 +1,10 @@
 banana
+<<<<<<< HEAD
 limons
 apple
+=======
+oranges
+apple
+pear
+strawberry
+>>>>>>> 77e6243a20b35165e6e85642442f69988314756d
