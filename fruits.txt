@@ -1,3 +1,5 @@
 banana
-orange
+oranges
 apple
+pear
+strawberry
